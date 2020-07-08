@@ -21,3 +21,7 @@ This repository is for showing how Git and GitHub work
 # Copyright
 
 This repository is for showing how Git and GitHub work
+
+# Contribute
+
+This repository is for showing how Git and GitHub work
