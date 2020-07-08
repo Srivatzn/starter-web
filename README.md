@@ -13,3 +13,11 @@ This repository is for showing how Git and GitHub work
 # Deployment
 
 This repository is for showing how Git and GitHub work
+
+# Testing
+
+This repository is for showing how Git and GitHub work
+
+# Licence
+
+This repository is for showing how Git and GitHub work
