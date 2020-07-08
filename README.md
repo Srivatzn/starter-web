@@ -18,6 +18,6 @@ This repository is for showing how Git and GitHub work
 
 This repository is for showing how Git and GitHub work
 
-# Licence
+# Copyright
 
 This repository is for showing how Git and GitHub work
