@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Vatz> -- <role> -- <blah balh>
 
 # THANKS
 
